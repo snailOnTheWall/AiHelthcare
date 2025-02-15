@@ -35,7 +35,7 @@ onUnmounted(() => {
 <template>
   <nav class="bg-white shadow-lg">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
-       <RouterLink to="/" class="text-2xl font-bold text-indigo-600">
+      <RouterLink to="/" class="text-2xl font-bold text-indigo-600">
         Admin
       </RouterLink>
       <div class="relative profile-icon">
